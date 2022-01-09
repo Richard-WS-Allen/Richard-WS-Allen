@@ -1,3 +1,5 @@
 -Hi, I’m @Richard-WS-Allen
+
 -I’m interested in continuing my growth as a software engineer. I'm currently reviewing and learning more about C++ through a Udemy course, *The C++ Programming Language Fourth Edition* by Bjarne Stroustrup, and *Parallel and Distributed Programming Using C++* by Cameron and Tracey Hughes.
+
 -My love of learning new things is what first started me down a career path in software engineering, and pushes me to continuously improve; refreshing old topics, and learning new topics along the way. It has also helped me find new hobbies that have stuck with me over the years, such as chess, snowboarding, golf, running, and reading. However, it also makes me start too many projects to keep up with, until they eventually get forgotten. Which is why I have recently archived some old projects and am focusing on finishing the C++ course and books I'm working through now, before I move onto other software projects. I would like my next project to combine this love of learning and software development with one of my hobbies.
